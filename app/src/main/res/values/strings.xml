@@ -4,4 +4,43 @@
     <string name="action_gridview">GridView</string>
     <string name="listview_empty">There\'s no item in the listview.</string>
     <string name="gridview_empty">There\'s no item in the gridview.</string>
+
+    <string-array name="Movies">
+        <item>13 hours</item>
+        <item>5th wave </item>
+        <item>Assassins Creed </item>
+        <item>Batman vs. Superman</item>
+        <item>Captain Americar</item>
+        <item>Deadpool</item>
+        <item>Forest</item>
+        <item>Star Wars: Rogue One</item>
+        <item>Suicide Squad</item>
+        <item>X-Men</item>
+    </string-array>
+
+    <string-array name="Genre">
+        <item>Action</item>
+        <item>Adventure </item>
+        <item>Action </item>
+        <item>Sci Fi Action</item>
+        <item>Action Sci Fi</item>
+        <item>Action Adventure</item>
+        <item>Horror</item>
+        <item>Action Adventure</item>
+        <item>Action</item>
+        <item>Action Sci fi</item>
+    </string-array>
+
+    <string-array name="Desc">
+        <item>An American Ambassador is killed during an attack at a U.S. compound in Libya as a security team struggles to make sense out of the chaos.</item>
+        <item>Four waves of increasingly deadly alien attacks have left most of Earth decimated. Cassie is on the run, desperately trying to save her younger brother. </item>
+        <item>When Callum Lynch (Michael Fassbender) explores the memories of his ancestor Aguilar and gains the skills of a Master Assassin</item>
+        <item>Wearing the actions of Superman left unchecked, Batman takes on Superman, while the world wrestles with what kind of a hero the world really needs.</item>
+        <item>Political interference in the Avengers' activities causes a rift between former allies Captain America and Iron Man.</item>
+        <item>A former Special Forces operative turned mercenary is subjected to a rogue experiment that leaves him with accelerated healing powers and adopts the alter ego Deadpool.</item>
+        <item>A woman goes into the Suicide Forest to find her twin sister, which she is informed by paranormal forces.</item>
+        <item>Rebels set out on a mission to steal the plans for the Death Star.</item>
+        <item>A secret government agency recruits imprisoned supervillains to execute dangerous black ops missions in exchange for clemency.</item>
+        <item>With the emergence of the world's first mutant, Apocalypse, the X-Men must unite to defeat his extinction level plan.</item>
+    </string-array>
 </resources>
